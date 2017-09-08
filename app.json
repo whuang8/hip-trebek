@@ -6,11 +6,11 @@
 		"bot",
 		"jeopardy"
 	],
-	"repository": "https://github.com/yanigisawa/hip-trebek",
+	"repository": "https://github.com/whuang8/hip-trebek",
 	"addons": [
 		"rediscloud"
 	],
-	"success_url": "https://github.com/yanigisawa/hip-trebek#usage",
+	"success_url": "https://github.com/whuang8/hip-trebek#usage",
 	"env": {
 		"AUTH_HEADER": {
 			"description": "The random query string value used to authenticate incoming requests from HipChat. This can be any string you like, just match this Heroku environment variable to the query string value you use to configure the Hipchat web hook.",
